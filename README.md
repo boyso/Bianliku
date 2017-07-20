@@ -9,23 +9,16 @@ Product Design Collecting addiction
 [iHosts](https://toolinbox.net/) 快速切换hosts文件
 [klib](https://toolinbox.net/Klib/)  重塑 Kindle 标注、笔记管理
 
-[Typora](https://typora.io/) MarkDown工具，极简
-
-
 
 ### 小工具
 
 [Calendly](https://calendly.com) 个人排期预约日历
 
-
-
 ### 写作&创作工具
 
+[Typora](https://typora.io/) MarkDown工具，极简
 [writefull](http://www.writefullapp.com/) 英语校对工具
-
 [小智logo](http://xzlogo.com/) 根据用户需求自动生成LOGO
-
-
 
 ### SKetch&插件
 
