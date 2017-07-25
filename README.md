@@ -1,6 +1,6 @@
 # 便利库
 
-Product Design Collecting addiction
+Product Design Collecting addiction - bianliku.cn
 世界变化如此快，如何保持脑袋不炸掉，而迎接更大的信息狂澜。
 ### 产品&设计工具
 [appsites](http://appsites.io/)  一分钟创建 app 的官网
