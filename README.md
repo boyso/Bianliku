@@ -28,7 +28,7 @@
 [PPduck](http://ppduck.com/) 图片压缩工具，支持 Mac/Win。
 
 [智图](http://zhitu.isux.us/) 鹅厂图片优化工具，压缩 WebP,可选品质压缩。
-=======
+
 [appsites](http://appsites.io/)  一分钟创建app的官网
 
 [iHosts](https://toolinbox.net/) 快速切换hosts文件
@@ -36,8 +36,6 @@
 [klib](https://toolinbox.net/Klib/)  重塑 Kindle 标注、笔记管理
 
 [pngimg](http://pngimg.com/) 透明PNG大全
->>>>>>> c390b0a3a6192d03f11a8375af93dc187b6dbb10
-
 
 ### 小工具
 
