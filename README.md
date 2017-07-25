@@ -6,6 +6,7 @@
 
 > 世界变化如此快，如何保持脑袋不炸掉，而迎接更大的信息狂澜。
 
+<<<<<<< HEAD
 [appsites](http://appsites.io/)  一分钟创建 app 的官网
 [iHosts](https://toolinbox.net/) 快速切换 hosts 文件
 [klib](https://toolinbox.net/Klib/)  重塑 Kindle 标注、笔记管理
@@ -28,6 +29,15 @@
 [PPduck](http://ppduck.com/) 图片压缩工具，支持 Mac/Win。
 
 [智图](http://zhitu.isux.us/) 鹅厂图片优化工具，压缩 WebP,可选品质压缩。
+=======
+[appsites](http://appsites.io/)  一分钟创建app的官网
+
+[iHosts](https://toolinbox.net/) 快速切换hosts文件
+
+[klib](https://toolinbox.net/Klib/)  重塑 Kindle 标注、笔记管理
+
+[pngimg](http://pngimg.com/) 透明PNG大全
+>>>>>>> c390b0a3a6192d03f11a8375af93dc187b6dbb10
 
 
 ### 小工具
@@ -39,7 +49,9 @@
 ### 写作&创作工具
 
 [Typora](https://typora.io/) MarkDown工具，极简
+
 [writefull](http://www.writefullapp.com/) 英语校对工具
+
 [小智logo](http://xzlogo.com/) 根据用户需求自动生成LOGO
 
 ### SKetch&插件
