@@ -53,3 +53,8 @@ Product Design Collecting addiction - bianliku.cn
 
 [PSD转sketch](https://avocode.com/convert-psd-to-sketch) 
 
+[Mirr.io](https://mirr.io/) Sketch实时交互查看工具。有Mac客户端
+
+### 书籍收藏
+
+[Shaders](http://thebookofshaders.com/)  The book of shaders 
