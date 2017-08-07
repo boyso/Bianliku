@@ -27,13 +27,13 @@ Product Design Collecting addiction - bianliku.cn
 
 [智图](http://zhitu.isux.us/) 鹅厂图片优化工具，压缩 WebP,可选品质压缩。
 
-[appsites](http://appsites.io/)  一分钟创建app的官网
+[appsites](http://appsites.io/)  一分钟创建 app 的官网
 
-[iHosts](https://toolinbox.net/) 快速切换hosts文件
+[iHosts](https://toolinbox.net/) 快速切换 hosts 文件
 
 [klib](https://toolinbox.net/Klib/)  重塑 Kindle 标注、笔记管理
 
-[pngimg](http://pngimg.com/) 透明PNG大全
+[pngimg](http://pngimg.com/) 透明 PNG 大全
 
 ### 小工具
 
@@ -43,17 +43,19 @@ Product Design Collecting addiction - bianliku.cn
 
 ### 写作&创作工具
 
-[Typora](https://typora.io/) MarkDown工具，极简
+[Typora](https://typora.io/) MarkDown 工具，极简
 
 [writefull](http://www.writefullapp.com/) 英语校对工具
 
-[小智logo](http://xzlogo.com/) 根据用户需求自动生成LOGO
+[小智logo](http://xzlogo.com/) 根据用户需求自动生成 LOGO
 
 ### SKetch&插件
 
-[PSD转sketch](https://avocode.com/convert-psd-to-sketch) 
+[PSD转sketch](https://avocode.com/convert-psd-to-sketch) 在线转换
 
-[Mirr.io](https://mirr.io/) Sketch实时交互查看工具。有Mac客户端
+[Photopea](https://www.photopea.com/) Sketch 转 PSD,可在线编辑 Sketch
+
+[Mirr.io](https://mirr.io/) Sketch 实时交互查看工具。有 Mac 客户端
 
 ### 书籍收藏
 
