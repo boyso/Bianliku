@@ -49,13 +49,15 @@ Product Design Collecting addiction - bianliku.cn
 
 [小智logo](http://xzlogo.com/) 根据用户需求自动生成 LOGO
 
-### SKetch&插件
+### 设计师工具
 
 [PSD转sketch](https://avocode.com/convert-psd-to-sketch) 在线转换
 
 [Photopea](https://www.photopea.com/) Sketch 转 PSD,可在线编辑 Sketch
 
 [Mirr.io](https://mirr.io/) Sketch 实时交互查看工具。有 Mac 客户端
+
+[wake](http://wake.com) Sketch 团队协作工具
 
 ### 书籍收藏
 
