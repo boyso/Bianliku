@@ -48,6 +48,7 @@ Product Design Collecting addiction - bianliku.cn
 [writefull](http://www.writefullapp.com/) 英语校对工具
 
 [小智logo](http://xzlogo.com/) 根据用户需求自动生成 LOGO
+
 [Blot](https://blot.im/) 直接把你文件夹与文件生成博客
 
 ### 设计师工具
